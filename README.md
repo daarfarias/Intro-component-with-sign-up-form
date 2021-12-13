@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-BCVjD8wdg)
 - Live Site URL: [Add live site URL here](https://intro-component-with-sign-up-form-ten.vercel.app/)
 
 
